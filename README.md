@@ -1,4 +1,4 @@
-# EAS-Phish Tools
+# EAS-Phish Tools Termux
 
 ### Description
 Phishing's easy tools for the need to hack a social media account with 29 templates of web sites and 4 choice ports. For the full feature you can read below
