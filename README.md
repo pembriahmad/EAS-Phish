@@ -74,6 +74,7 @@ Type command
  
  ## Sources
  * Github https://github.com/pembriahmad
+ * Gitlab https://gitlab.com/pembriahmad
  * Link Repositories https://github.com/pembriahmad/EasPhish
 
 # Screenshot
