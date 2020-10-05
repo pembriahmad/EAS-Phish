@@ -80,3 +80,11 @@ Type command
 # Screenshot
 
 ![](https://raw.githubusercontent.com/pembriahmad/EAS-Phish/master/Screenshot.jpg)
+
+## Other Tools 
+
+**Repositories :**
+* [EAS Phish](https://github.com/pembriahmad/EAS-Phish)
+* [Get Linux](https://github.com/pembriahmad/Get-Linux)
+* [DDOS Attack](https://github.com/pembriahmad/DDOS)
+* [Bash Crypt](https://github.com/pembriahmad/Bash-Crypt) 
